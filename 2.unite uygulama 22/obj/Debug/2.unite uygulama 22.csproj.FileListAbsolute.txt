@@ -1,0 +1,10 @@
+C:\Users\Seyda\source\repos\2.unite uygulama 22\2.unite uygulama 22\bin\Debug\2.unite uygulama 22.exe.config
+C:\Users\Seyda\source\repos\2.unite uygulama 22\2.unite uygulama 22\bin\Debug\2.unite uygulama 22.exe
+C:\Users\Seyda\source\repos\2.unite uygulama 22\2.unite uygulama 22\bin\Debug\2.unite uygulama 22.pdb
+C:\Users\Seyda\source\repos\2.unite uygulama 22\2.unite uygulama 22\obj\Debug\2.unite uygulama 22.csproj.AssemblyReference.cache
+C:\Users\Seyda\source\repos\2.unite uygulama 22\2.unite uygulama 22\obj\Debug\_2.unite_uygulama_22.Form1.resources
+C:\Users\Seyda\source\repos\2.unite uygulama 22\2.unite uygulama 22\obj\Debug\_2.unite_uygulama_22.Properties.Resources.resources
+C:\Users\Seyda\source\repos\2.unite uygulama 22\2.unite uygulama 22\obj\Debug\2.unite uygulama 22.csproj.GenerateResource.cache
+C:\Users\Seyda\source\repos\2.unite uygulama 22\2.unite uygulama 22\obj\Debug\2.unite uygulama 22.csproj.CoreCompileInputs.cache
+C:\Users\Seyda\source\repos\2.unite uygulama 22\2.unite uygulama 22\obj\Debug\2.unite uygulama 22.exe
+C:\Users\Seyda\source\repos\2.unite uygulama 22\2.unite uygulama 22\obj\Debug\2.unite uygulama 22.pdb
